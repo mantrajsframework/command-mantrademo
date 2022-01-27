@@ -1,0 +1,12 @@
+{
+  "CurrentVersion": "1",
+  "ComponentsLocations": ["components"],
+  "ComponentsConfig": {},
+  "Entities": {
+    "default": {
+      "provider": "sqlite",
+      "databasepath": "./commandmantrademo.db"
+    }
+  },
+  "DefaultComponents": ["getapi","simplecommand"]
+}

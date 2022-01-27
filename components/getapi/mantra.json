@@ -1,0 +1,5 @@
+{
+    "name": "getapi component",
+    "description": "Exposes an api to request get rest calls",
+    "version": "1.0.0"
+}

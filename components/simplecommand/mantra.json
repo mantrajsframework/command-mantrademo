@@ -1,0 +1,7 @@
+{
+    "name": "simplecommand",
+    "description": "Configures a simple command",
+    "version": "1.0.0",
+    "dependencies": [],
+    "defaultconfig": {}
+}
